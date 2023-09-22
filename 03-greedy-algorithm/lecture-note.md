@@ -11,6 +11,8 @@
 
 
 ### 문제 풀기
-- 큰 수의 법칙
-- 숫자 카드 게임
-- 1이 될 때까지
+- [큰 수의 법칙](https://github.com/sangeun99/python-for-coding-test/blob/master/03-greedy-algorithm/03-02.py)
+- [숫자 카드 게임](https://github.com/sangeun99/python-for-coding-test/blob/master/03-greedy-algorithm/03-03.py)
+- [1이 될 때까지](https://github.com/sangeun99/python-for-coding-test/blob/master/03-greedy-algorithm/03-04.py)
+- [모험가의 길드](https://github.com/sangeun99/python-for-coding-test/blob/master/11-greedy-advanced/11-01.py)
+- [곱하기 혹은 더하기](https://github.com/sangeun99/python-for-coding-test/blob/master/11-greedy-advanced/11-02.py)
